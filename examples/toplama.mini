@@ -1,0 +1,6 @@
+# MiniDil örnek programı
+LET a = 5
+LET b = 7
+LET toplam = a + b
+PRINT toplam
+END

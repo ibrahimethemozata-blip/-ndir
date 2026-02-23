@@ -1,0 +1,12 @@
+# Türkçe Python örneği
+
+işlev faktoriyel(n):
+    eğer n <= 1:
+        döndür 1
+    degilse:
+        döndür n * faktoriyel(n - 1)
+
+yaz("5! =", faktoriyel(5))
+
+için i in aralık(3):
+    yaz("Döngü:", i)
